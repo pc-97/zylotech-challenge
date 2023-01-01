@@ -21,7 +21,7 @@
   "homepage": "https://github.com/prashantchamoli05/zylotech-challenge#readme",
   "dependencies": {
     "concurrently": "^5.1.0",
-    "config": "^3.2.6",
+    "config": "^3.3.8",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mongoose": "^5.9.2",
